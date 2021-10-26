@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VENUSCOMP CAPE TOWN
 - 👀 I’m interested in ...LEARNING PYTHON, HTML, JAVA
 - 🌱 I’m currently learning ...PYTHON, HTML,CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ...venuscomputerscpt@outlook.com
 
 <!---
